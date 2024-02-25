@@ -46,5 +46,5 @@ This project is a simple web page UI created using [Tech Stack Name]. The design
 - Clone the repository:
 
   ```bash
-  git clone https://github.com/your-username/your-repository.git
+ - Github : https://github.com/nandaKishore536/Jaipur-Marketing.Com-Assigment-
   ```
