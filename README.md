@@ -1,6 +1,6 @@
 # Web Page UI
 
-This project is a simple web page UI created using [Tech Stack Name]. The design and styling are based on the provided reference with specific color codes and fonts.
+This project is a simple web page UI created using React. The design and styling are based on the provided reference with specific color codes and fonts.
 
 ## Tech Stack
 
