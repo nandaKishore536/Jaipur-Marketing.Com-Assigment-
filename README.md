@@ -8,6 +8,7 @@ This project is a simple web page UI created using [Tech Stack Name]. The design
 - CSS
 - JavaScript
 - React Js
+- React-Hook
 
 ## Color Codes
 
@@ -26,8 +27,6 @@ This project is a simple web page UI created using [Tech Stack Name]. The design
 - #FFFFFF
 - #00E4E3
 - #578E88
-
--
 
 ## Fonts
 
