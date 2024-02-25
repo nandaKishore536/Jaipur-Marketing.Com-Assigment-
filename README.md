@@ -42,9 +42,6 @@ This project is a simple web page UI created using [Tech Stack Name]. The design
 - Not-Found Page
 
 ## Usage
-
-- Clone the repository:
-
   ```bash
  - Github : https://github.com/nandaKishore536/Jaipur-Marketing.Com-Assigment-
   ```
