@@ -44,3 +44,6 @@ This project is a simple web page UI created using React. The design and styling
   ```bash
  - Github : https://github.com/nandaKishore536/Jaipur-Marketing.Com-Assigment-
   ```
+## Output 
+
+- checkOut : https://jma536.ccbp.tech
